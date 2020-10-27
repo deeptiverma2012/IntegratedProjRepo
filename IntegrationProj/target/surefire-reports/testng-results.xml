@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18115" started-at="2020-10-25T18:19:02 IST" finished-at="2020-10-25T18:19:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18115" started-at="2020-10-25T18:19:02 IST" finished-at="2020-10-25T18:19:20 IST">
+      <class name="org.Testing.TestScript.TC2">
+        <test-method status="PASS" signature="FBLanding()[pri:0, instance:org.Testing.TestScript.TC2@402a079c]" name="FBLanding" duration-ms="10207" started-at="2020-10-25T18:19:10 IST" finished-at="2020-10-25T18:19:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBLanding -->
+      </class> <!-- org.Testing.TestScript.TC2 -->
+      <class name="org.Testing.TestScript.TC1">
+        <test-method status="PASS" signature="YTubeLanding()[pri:0, instance:org.Testing.TestScript.TC1@6500df86]" name="YTubeLanding" duration-ms="7860" started-at="2020-10-25T18:19:02 IST" finished-at="2020-10-25T18:19:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YTubeLanding -->
+      </class> <!-- org.Testing.TestScript.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
